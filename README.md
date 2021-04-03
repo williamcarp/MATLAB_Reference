@@ -1,4 +1,4 @@
-# MATLAB_Reference
+# MATLAB Reference
 Repository to hold notes on using the MATLAB programming language.
 
 Comments and sections. 

@@ -5,6 +5,8 @@ Comments and sections.
 
 Initialize arrays. (NaN, zeros, triu, etc.)
 
+Rows, columns, and indexing.
+
 Boolean.
 
 Conditional statements.
